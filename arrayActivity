@@ -1,0 +1,8 @@
+let favSingers = ["Yeng Constantino","Earl Agustin","Sarah Geronimo"];
+console.log(favSingers[0];
+
+let favNumbers = [6,16,17,20];
+console.log(favNumbers);
+
+let mixArr = ["string",["otherarray"],123,true];
+console.log(mixArr[1]);
