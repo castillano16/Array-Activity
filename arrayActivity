@@ -1,5 +1,5 @@
 let favSingers = ["Yeng Constantino","Earl Agustin","Sarah Geronimo"];
-console.log(favSingers[0];
+console.log(favSingers[0]);
 
 let favNumbers = [6,16,17,20];
 console.log(favNumbers);
